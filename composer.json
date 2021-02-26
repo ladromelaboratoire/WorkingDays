@@ -1,0 +1,19 @@
+{
+    "name": "ladromelaboratoire/workingdays",
+    "description": "Classes to calculate delivery lead times",
+    "license": "BSD-3-Clause",
+    "keywords": [
+        "working days",
+        "lead time"
+    ],
+    "require": {
+		"php": "^7.2"
+    },
+    "require-dev": {
+    },
+	"autoload": {
+        "psr-4": {
+            "ladromelaboratoire\\workingdays\\": "src/"
+        }
+    }
+}
