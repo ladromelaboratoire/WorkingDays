@@ -47,7 +47,7 @@ Computing performance :
 
 ##Todo list
  * Move to PHPUnit
- * Move to Composer
+ * ~~Move to Composer~~ done
 
 ## Example
 

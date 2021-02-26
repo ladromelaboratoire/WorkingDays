@@ -47,7 +47,7 @@ Performance calculée :
 
 ## Todo list
  * utiliser PHPUnit
- * utiliser Composer
+ * ~~utiliser Composer~~ réalisé
 
 ## Exemple
 
