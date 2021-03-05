@@ -1,13 +1,13 @@
 {
     "name": "ladromelaboratoire/workingdays",
-    "description": "Classes to calculate delivery lead times",
+    "description": "Class to calculate delivery lead times expressed in working days. Can be adapted easily for various countries using sub-classes, just submit PRs",
     "license": "BSD-3-Clause",
     "keywords": [
         "working days",
         "lead time"
     ],
     "require": {
-		"php": "^7.2"
+		"php": ">=7.2"
     },
     "require-dev": {
     },
